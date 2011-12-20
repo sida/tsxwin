@@ -1,0 +1,1 @@
+﻿TinyschemeのVisualStudio2008ビルドセット

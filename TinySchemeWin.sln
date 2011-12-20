@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TinySchemeWin", "TinySchemeWin\TinySchemeWin.vcproj", "{6B3FC9D6-C354-42C3-9685-459BCB8A2598}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tsx-system", "tsx-system\tsx-system.vcproj", "{C0E55D94-31E6-4411-A9F2-1495A8E5A94D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B3FC9D6-C354-42C3-9685-459BCB8A2598}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B3FC9D6-C354-42C3-9685-459BCB8A2598}.Debug|Win32.Build.0 = Debug|Win32
+		{6B3FC9D6-C354-42C3-9685-459BCB8A2598}.Release|Win32.ActiveCfg = Release|Win32
+		{6B3FC9D6-C354-42C3-9685-459BCB8A2598}.Release|Win32.Build.0 = Release|Win32
+		{C0E55D94-31E6-4411-A9F2-1495A8E5A94D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C0E55D94-31E6-4411-A9F2-1495A8E5A94D}.Debug|Win32.Build.0 = Debug|Win32
+		{C0E55D94-31E6-4411-A9F2-1495A8E5A94D}.Release|Win32.ActiveCfg = Release|Win32
+		{C0E55D94-31E6-4411-A9F2-1495A8E5A94D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
