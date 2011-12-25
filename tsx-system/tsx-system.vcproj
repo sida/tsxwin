@@ -115,10 +115,11 @@
 				Name="VCCLCompilerTool"
 				Optimization="2"
 				EnableIntrinsicFunctions="true"
-				PreprocessorDefinitions="WIN32;NDEBUG;_WINDOWS;_USRDLL;TSXSYSTEM_EXPORTS"
+				AdditionalIncludeDirectories="$(SolutionDir)\TinySchemeWin"
+				PreprocessorDefinitions="WIN32;NDEBUG;_WINDOWS;_USRDLL;TSXSYSTEM_EXPORTS;STANDALONE;USE_DL;USE_MATH"
 				RuntimeLibrary="2"
 				EnableFunctionLevelLinking="true"
-				UsePrecompiledHeader="2"
+				UsePrecompiledHeader="0"
 				WarningLevel="3"
 				DebugInformationFormat="3"
 			/>
